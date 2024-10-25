@@ -3,12 +3,11 @@
 | Centralized Management                  | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
 | Scalability                             | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
 | Threat Detection and Remediation        | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
-| Patch Management                        | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Patch Management                        | ❌       | ❌     | ✔️          | ✔️          | ✔️     |
 | Endpoint Protection                     | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
 | Real-time Monitoring and Reporting      | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
-| Cloud Integration                       | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
-| User and Device Management              | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
-
+| Cloud Integration                       | ✔️       | ✔️     | ❌          | ✔️          | ✔️     |
+| User and Device Management              | ❌       | ❌     | ✔️          | ✔️          | ✔️     |
 
 ## 2. Compliance Requirements
 

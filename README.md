@@ -1,16 +1,14 @@
-# Secure Client-Server Calculator Application: Security Assessment
+| Features                               | Symantec | McAfee | Bitdefender | Trend Micro | Sophos |
+|----------------------------------------|----------|--------|-------------|-------------|--------|
+| Centralized Management                  | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Scalability                             | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Threat Detection and Remediation        | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Patch Management                        | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Endpoint Protection                     | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Real-time Monitoring and Reporting      | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| Cloud Integration                       | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
+| User and Device Management              | ✔️       | ✔️     | ✔️          | ✔️          | ✔️     |
 
-## 1. Threat Modeling
-
-Threat modeling helps identify, quantify, and address potential security risks. A detailed threat model should include:
-
-| **Component**            | **Potential Threat**                                   | **Mitigation Strategy**                                           |
-|--------------------------|-------------------------------------------------------|-------------------------------------------------------------------|
-| **Client-Side**           | Malware, Phishing, Insecure Authentication            | Strong password policies, MFA, secure API calls.                  |
-| **Server-Side**           | Unauthorized Access, SQL Injection, DoS               | Input validation, firewalls, prepared statements, rate limiting.   |
-| **Data in Transit**       | Man-in-the-middle (MITM) Attacks                      | Use SSL/TLS encryption for all communications.                    |
-| **Data at Rest**          | Data Breaches, Insecure Storage                       | Encrypt sensitive data using AES-256, apply access control.        |
-| **Session Management**    | Session Hijacking, Token Theft                        | Secure session tokens, implement timeouts and secure cookies.      |
 
 ## 2. Compliance Requirements
 
